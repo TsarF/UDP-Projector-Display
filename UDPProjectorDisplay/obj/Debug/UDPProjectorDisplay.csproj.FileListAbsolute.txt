@@ -1,0 +1,10 @@
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\bin\Debug\UDPProjectorDisplay.exe.config
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\bin\Debug\UDPProjectorDisplay.exe
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\bin\Debug\UDPProjectorDisplay.pdb
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.csprojAssemblyReference.cache
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.Form1.resources
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.Properties.Resources.resources
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.csproj.GenerateResource.cache
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.exe
+C:\Users\ninja\source\repos\UDPProjectorDisplay\UDPProjectorDisplay\obj\Debug\UDPProjectorDisplay.pdb
